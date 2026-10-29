@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "172.16.80.50",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "equipe03",
+            "group": "equipe03",
+            "database": "equipe03",
+            "username": "equipe03"
+        }
+    ],
+    "python.terminal.useEnvFile": true
+}
